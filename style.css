@@ -1,0 +1,37 @@
+.Calculator{
+    height: 80vh;
+    width: 35vw;
+    background-color: #ebeebe;
+    border-radius: 10px;
+    margin: 50px;
+    margin-left: 400px;
+    position: absolute;
+}
+
+.displayboard{
+    height: 80px;
+    width: 390px;
+    background-color: #7c7a7a;
+    position: relative;
+    margin: 40px;
+    border-radius: 10px;
+}
+
+#number{
+    height: 50px;
+    width: 357px;
+    margin: 12px;
+    border-radius: 10px;
+}
+
+.numbers{
+    margin: 35px;
+    margin-left: 55px;
+}
+
+.numbers button{
+    height: 70px;
+    width: 80px;
+    margin: 5px;
+    border-radius: 10px;
+}
